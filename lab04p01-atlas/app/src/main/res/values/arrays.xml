@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ilustracje">
+        <item>R.drawable.f_wilk</item>
+        <item>R.drawable.f_rekin</item>
+        <item>R.drawable.f_lion</item>
+    </array>
+</resources>
