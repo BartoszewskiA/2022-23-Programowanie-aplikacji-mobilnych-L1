@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atlas zwirząt</string>
+    <string name="next">Dalej</string>
+    <string name="back">Wstecz</string>
+
+
+    <string-array name="nazwy">
+        <item>Wilk</item>
+        <item>Rekin</item>
+        <item>Lew</item>
+    </string-array>
+    <string-array name="opisy">
+        <item>Wilk to rodzaj psowatych, który obejmuje wiele istniejących gatunków, takich jak wilki, psy, kojoty i szakale złociste. Gatunki tego rodzaju wyróżniają się średnimi lub dużymi rozmiarami, masywnymi, dobrze rozwiniętymi czaszkami i uzębieniem, długimi nogami oraz stosunkowo krótkimi uszami i ogonami.</item>
+        <item>Rekiny to grupa ryb spodowatych charakteryzująca się szkieletem chrzęstnym, pięcioma do siedmiu szczelinami skrzelowymi po bokach głowy i płetwami piersiowymi, które nie są połączone z głową. Współczesne rekiny należą do kladu Selachimorpha (lub Selachii) i są siostrzaną grupą płaszczek.</item>
+        <item>Lew (Panthera leo) to duży kot z rodzaju Panthera pochodzący z Afryki i Indii. Ma muskularne ciało o szerokiej klatce piersiowej, krótką, zaokrągloną głowę, okrągłe uszy i owłosioną kępkę na końcu ogona. </item>
+    </string-array>
+
+</resources>
